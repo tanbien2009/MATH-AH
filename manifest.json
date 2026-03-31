@@ -1,0 +1,9 @@
+{
+  "name": "Quan Ly Ban Hang",
+  "short_name": "QLBH",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f9d58",
+  "icons": []
+}

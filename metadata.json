@@ -1,0 +1,5 @@
+{
+  "name": "QL Bán Hàng",
+  "description": "Ứng dụng quản lý bán hàng đơn giản với tính năng PWA.",
+  "requestFramePermissions": []
+}
